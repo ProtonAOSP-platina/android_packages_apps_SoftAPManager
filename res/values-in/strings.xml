@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SoftAPManager</string>
+    <string name="title_activity_client_info">Informasi klien</string>
+    <string name="title_activity_client_list">Daftar klien</string>
+    <string name="title_blocked_clients">Klien yang terblokir</string>
+    <string name="title_connected_clients">Klien yang terhubung</string>
+    <string name="title_name">Nama</string>
+    <string name="title_mac_address">Alamat MAC</string>
+    <string name="title_ip_address">Alamat IP</string>
+    <string name="title_manufacturer">Manufaktur</string>
+    <string name="title_blocked">Terblok</string>
+</resources>
