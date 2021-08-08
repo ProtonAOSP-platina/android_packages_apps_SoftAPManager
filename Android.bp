@@ -3,7 +3,7 @@ android_app {
 
     resource_dirs: ["res"],
 
-    srcs: ["java/**/*.java"],
+    srcs: ["src/**/*.java"],
 
     static_libs: [
         "androidx.preference_preference",
